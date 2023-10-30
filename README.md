@@ -1,10 +1,33 @@
 ![header](https://capsule-render.vercel.app/api?type=Waving&text=YounByungHyuk)
 ### Hi there 👋
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=YounByungHyuk&show_icons=true&theme=tokyonight)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=YounByungHyuk&show_icons=true&theme=default)
+
+
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YounByungHyuk&layout=default&theme=default)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 <!--
 **YounByungHyuk/YounByungHyuk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 
 
