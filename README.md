@@ -5,7 +5,7 @@
 
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YounByungHyuk&theme=default)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YounByungHyuk&layout=compact&theme=default)
 
 
 
