@@ -2,7 +2,7 @@
 ### 👋
 <div align="center">
 
-<img src="https://img.shields.io/badge/nodedotjs-#339933?style=flat&logo=nodedotjs&logoColor=339933"/>
+<img src="https://img.shields.io/badge/nodedotjs-339933?style=flat&logo=nodedotjs&logoColor=339933"/>
 <hr>
 
   
