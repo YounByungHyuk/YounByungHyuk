@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=Waving&text= Youn Byung Hyu)
+![header](https://capsule-render.vercel.app/api?type=Waving&text=YounByungHyuk)
 ### Hi there 👋
 
 <!--
